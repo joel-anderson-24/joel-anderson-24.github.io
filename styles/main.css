@@ -49,3 +49,8 @@ div {
   font-family: fantasy;
   color: rgb(195, 12, 12);
 }
+img,
+picture,
+video {
+  max-width: 100%;
+}

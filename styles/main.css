@@ -44,3 +44,8 @@ span2 {
 div {
   text-align: center;
 }
+.thanks {
+  font-size: 40px;
+  font-family: fantasy;
+  color: rgb(195, 12, 12);
+}

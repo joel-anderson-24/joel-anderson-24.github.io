@@ -41,11 +41,11 @@ span2 {
   font-size: 20px;
   font-family: monospace;
 }
-div {
+.text-align {
   text-align: center;
 }
 .thanks {
-  font-size: 40px;
+  font-size: 20px;
   font-family: fantasy;
   color: rgb(195, 12, 12);
 }
@@ -53,4 +53,20 @@ img,
 picture,
 video {
   max-width: 100%;
+}
+.padding-left {
+  padding-left: 10px;
+  width: 60%;
+}
+.column {
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: '';
+  clear: both;
+  display: table;
 }

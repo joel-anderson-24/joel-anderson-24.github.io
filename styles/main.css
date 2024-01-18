@@ -39,7 +39,7 @@ span2 {
   color: red;
 }
 .instructions {
-  font-size: 20px;
+  font-size: 23px;
   font-family: monospace;
 }
 div {
@@ -54,6 +54,8 @@ img,
 picture,
 video {
   max-width: 100%;
+  border-style: dashed;
+  border-color: rgb(161, 96, 230);
 }
 
 h1,
@@ -61,4 +63,7 @@ h2,
 h3,
 p {
   margin-left: 15px;
+}
+.font-size {
+  font-size: 30px;
 }

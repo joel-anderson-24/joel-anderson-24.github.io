@@ -31,9 +31,12 @@ nav ul li a {
 }
 p {
   color: rgb(0, 0, 0);
+  font-family: monospace;
+  font-size: 15px;
 }
 span {
   text-decoration: underline;
+  color: black;
 }
 span2 {
   color: red;
@@ -44,11 +47,15 @@ span2 {
 }
 .text-align {
   text-align: center;
+  color: rgb(195, 12, 12);
+  font-family: Helvetica;
+  font-size: 25px;
 }
 .thanks {
   font-size: 20px;
   font-family: fantasy;
   color: rgb(195, 12, 12);
+  text-decoration: none;
 }
 img,
 picture,
@@ -78,4 +85,11 @@ img {
   width: auto;
   border-style: dashed;
   border-color: rgb(161, 96, 230);
+}
+.paragraph {
+  border-style: dashed;
+  border-color: rgb(161, 96, 230);
+}
+#underline {
+  text-decoration: underline;
 }

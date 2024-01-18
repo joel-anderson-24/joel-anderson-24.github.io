@@ -81,8 +81,8 @@ video {
 }
 
 img {
-  height: 500px;
-  width: auto;
+  max-width: 100%;
+  height: auto;
   border-style: dashed;
   border-color: rgb(161, 96, 230);
 }

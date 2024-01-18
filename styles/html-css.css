@@ -89,6 +89,8 @@ img {
 .paragraph {
   border-style: dashed;
   border-color: rgb(161, 96, 230);
+  margin: 5px 0 5px 0;
+  padding: 0 5px 0 5px;
 }
 #underline {
   text-decoration: underline;

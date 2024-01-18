@@ -33,7 +33,7 @@ p {
   color: rgb(0, 0, 0);
 }
 span {
-  color: blue;
+  text-decoration: underline;
 }
 span2 {
   color: red;

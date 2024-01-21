@@ -95,3 +95,8 @@ img {
 #underline {
   text-decoration: underline;
 }
+.paragraph-li {
+  color: rgb(0, 0, 0);
+  font-family: monospace;
+  font-size: 15px;
+}

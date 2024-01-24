@@ -94,6 +94,7 @@ img {
   border-color: rgb(161, 96, 230);
   max-width: 100%;
   height: auto;
+  margin: 5px 5px 0 0;
 }
 
 .paragraph {

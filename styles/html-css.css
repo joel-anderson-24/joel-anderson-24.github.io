@@ -86,6 +86,16 @@ img {
   border-style: dashed;
   border-color: rgb(161, 96, 230);
 }
+.building-pic,
+.array-pic,
+.object-pic,
+.dev-pic {
+  border-style: dashed;
+  border-color: rgb(161, 96, 230);
+  max-width: 100%;
+  height: auto;
+}
+
 .paragraph {
   border-style: dashed;
   border-color: rgb(161, 96, 230);

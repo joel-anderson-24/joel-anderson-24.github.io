@@ -112,7 +112,6 @@ img {
   font-size: 15px;
 }
 table,
-tr,
 th,
 td {
   margin-left: auto;
@@ -120,4 +119,9 @@ td {
   border: solid;
   border-color: blueviolet;
   padding: 7px;
+  border-width: 4px;
+}
+table {
+  max-width: 95%;
+  border-collapse: collapse;
 }
